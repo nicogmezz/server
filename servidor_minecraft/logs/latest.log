@@ -1,37 +1,27 @@
-[20:19:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:19:57] [ServerMain/INFO]: Loaded 1407 recipes
-[20:19:57] [ServerMain/INFO]: Loaded 1520 advancements
-[20:19:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:19:57] [Server thread/INFO]: Loading properties
-[20:19:57] [Server thread/INFO]: Default game type: SURVIVAL
-[20:19:57] [Server thread/INFO]: Generating keypair
-[20:19:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:19:57] [Server thread/INFO]: Using epoll channel type
-[20:19:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:19:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:19:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:19:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:19:57] [Server thread/INFO]: Preparing level "world"
-[20:19:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:20:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:00] [Server thread/INFO]: Time elapsed: 2605 ms
-[20:20:00] [Server thread/INFO]: Done (2.902s)! For help, type "help"
-[20:20:21] [Server thread/INFO]: Dytro_9[/127.158.192.254:45117] logged in with entity id 8 at (1143.2066901914347, 104.5, -530.4095504413948)
-[20:20:21] [Server thread/INFO]: Dytro_9 joined the game
-[20:20:27] [Server thread/INFO]: Chupito2003[/127.6.117.219:38169] logged in with entity id 435 at (1077.3079449708464, 95.0, -458.32089650709577)
-[20:20:27] [Server thread/INFO]: Chupito2003 joined the game
-[20:59:15] [Server thread/INFO]: Dytro_9 has made the advancement [What a Deal!]
-[21:03:56] [Server thread/INFO]: Chupito2003 has made the advancement [Ice Bucket Challenge]
-[21:12:09] [Server thread/INFO]: Dytro_9 has made the advancement [Suit Up]
-[21:12:19] [Server thread/INFO]: Chupito2003 has made the advancement [Suit Up]
-[21:26:56] [Server thread/INFO]: Dytro_9 has made the advancement [Diamonds!]
-[21:28:50] [Server thread/INFO]: Chupito2003 has made the advancement [Diamonds!]
-[21:33:05] [Server thread/INFO]: Dytro_9 has made the advancement [Hot Stuff]
-[21:39:45] [Server thread/INFO]: Dytro_9 has made the advancement [We Need to Go Deeper]
-[21:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
-[21:40:45] [Server thread/INFO]: Chupito2003 has made the advancement [We Need to Go Deeper]
+[13:40:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:40:28] [ServerMain/INFO]: Loaded 1407 recipes
+[13:40:28] [ServerMain/INFO]: Loaded 1520 advancements
+[13:40:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:40:29] [Server thread/INFO]: Loading properties
+[13:40:29] [Server thread/INFO]: Default game type: SURVIVAL
+[13:40:29] [Server thread/INFO]: Generating keypair
+[13:40:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:40:29] [Server thread/INFO]: Using epoll channel type
+[13:40:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:40:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:40:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:40:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:40:29] [Server thread/INFO]: Preparing level "world"
+[13:40:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:40:33] [Server thread/INFO]: Time elapsed: 3817 ms
+[13:40:33] [Server thread/INFO]: Done (4.159s)! For help, type "help"
+[13:40:41] [Server thread/INFO]: Dytro_9[/127.158.192.254:56561] logged in with entity id 8 at (1140.717538645384, 104.0, -528.7733705778653)
+[13:40:41] [Server thread/INFO]: Dytro_9 joined the game
