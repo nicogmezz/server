@@ -320,6 +320,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-11 21:04:32 +0000",
       "minecraft:skeleton": "2025-09-10 18:12:58 +0000",
       "minecraft:piglin": "2025-09-10 21:40:13 +0000",
       "minecraft:enderman": "2025-09-11 14:36:38 +0000",
@@ -2224,6 +2225,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-09-11 18:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-11 21:04:46 +0000"
     },
     "done": true
   },
