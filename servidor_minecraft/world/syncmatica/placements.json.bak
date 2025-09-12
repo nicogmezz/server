@@ -1,0 +1,26 @@
+{
+  "placements": [
+    {
+      "id": "e7d3ee97-3dba-4af6-bfe2-de74cc47286c",
+      "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\COMPLETE Massive Open Survival Mega Base-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "628ff6ef-f4be-350a-bc57-9264b72ea510",
+      "origin": {
+        "position": [
+          1316,
+          101,
+          -470
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_180",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "8af9a8d7-8ce1-3b8b-a4e0-c4d0509332d0",
+        "name": "Chupito2003"
+      },
+      "litematicVersion": 6,
+      "dataVersion": 3218
+    }
+  ]
+}
