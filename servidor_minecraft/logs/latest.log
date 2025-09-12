@@ -1,5 +1,5 @@
-[11:18:50] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[11:18:50] [main/INFO]: Loading 42 mods:
+[17:42:45] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[17:42:45] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.133.4+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -49,62 +49,34 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[11:18:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[11:18:50] [main/INFO]: Compatibility level set to JAVA_21
-[11:18:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11:18:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:18:58] [main/INFO]: Found new data pack fabric, loading it automatically
-[11:18:58] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[11:19:00] [main/INFO]: Loaded 1407 recipes
-[11:19:00] [main/INFO]: Loaded 1520 advancements
-[11:19:00] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.528 ms
-[11:19:00] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[11:19:00] [Server thread/INFO]: Loading properties
-[11:19:00] [Server thread/INFO]: Default game type: SURVIVAL
-[11:19:00] [Server thread/INFO]: Generating keypair
-[11:19:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:19:00] [Server thread/INFO]: Using epoll channel type
-[11:19:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:19:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:19:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:19:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:19:00] [Server thread/INFO]: Preparing level "world"
-[11:19:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:19:03] [Server thread/INFO]: Time elapsed: 2473 ms
-[11:19:03] [Server thread/INFO]: Done (2.876s)! For help, type "help"
-[11:19:09] [Server thread/INFO]: Dytro_9[/127.158.192.254:46269] logged in with entity id 8 at (1328.9746091560685, 110.0, -506.4847999200475)
-[11:19:09] [Server thread/INFO]: Dytro_9 joined the game
-[11:19:10] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[11:19:15] [Server thread/INFO]: Chupito2003[/127.6.117.219:33289] logged in with entity id 380 at (1292.3939375394964, 105.02442408821369, -516.0024250746803)
-[11:19:15] [Server thread/INFO]: Chupito2003 joined the game
-[11:19:15] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[11:52:16] [Server thread/INFO]: Seed: [5642964788653720400]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=42, z=234}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=42, z=236}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=41, z=238}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=41, z=239}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=42, z=239}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 15], pos: class_2338{x=944, y=41, z=240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 15], pos: class_2338{x=944, y=41, z=241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=945, y=41, z=238}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[12:18:23] [Server thread/INFO]: Dytro_9 lost connection: Disconnected
-[12:18:23] [Server thread/INFO]: Dytro_9 left the game
-[12:21:27] [Server thread/INFO]: Dytro_9[/127.158.192.254:48721] logged in with entity id 32616 at (1122.045323742629, 66.0, 688.2403177418774)
-[12:21:27] [Server thread/INFO]: Dytro_9 joined the game
-[12:21:27] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[12:26:33] [Server thread/INFO]: Dytro_9 lost connection: Disconnected
-[12:26:33] [Server thread/INFO]: Dytro_9 left the game
-[12:47:19] [Server thread/INFO]: Dytro_9[/127.158.192.254:40253] logged in with entity id 40420 at (1301.3680470985812, 105.0, -406.16129830402815)
-[12:47:19] [Server thread/INFO]: Dytro_9 joined the game
-[12:47:19] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[14:06:29] [Server thread/INFO]: Chupito2003 lost connection: Disconnected
-[14:06:29] [Server thread/INFO]: Chupito2003 left the game
-[15:11:41] [Server thread/INFO]: Chupito2003[/127.6.117.219:52085] logged in with entity id 80002 at (1316.675949479806, 103.0, -511.7383209207343)
-[15:11:41] [Server thread/INFO]: Chupito2003 joined the game
-[15:11:41] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[15:44:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1318, y=96, z=-366} class_2338{x=1317, y=94, z=-366}
+[17:42:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:42:45] [main/INFO]: Compatibility level set to JAVA_21
+[17:42:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17:42:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:42:55] [main/INFO]: Loaded 1407 recipes
+[17:42:56] [main/INFO]: Loaded 1520 advancements
+[17:42:56] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.615 ms
+[17:42:56] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:42:56] [Server thread/INFO]: Loading properties
+[17:42:56] [Server thread/INFO]: Default game type: SURVIVAL
+[17:42:56] [Server thread/INFO]: Generating keypair
+[17:42:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:42:56] [Server thread/INFO]: Using epoll channel type
+[17:42:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:42:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:42:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:42:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:42:56] [Server thread/INFO]: Preparing level "world"
+[17:42:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:42:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:42:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:42:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:42:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:42:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:42:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:42:59] [Server thread/INFO]: Time elapsed: 2620 ms
+[17:42:59] [Server thread/INFO]: Done (3.021s)! For help, type "help"
+[17:43:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:45:00] [Server thread/INFO]: Dytro_9[/127.158.192.254:39541] logged in with entity id 8 at (1197.650479199158, 103.0, -532.5069342383878)
+[17:45:00] [Server thread/INFO]: Dytro_9 joined the game
+[17:45:01] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
