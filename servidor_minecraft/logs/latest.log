@@ -107,3 +107,4 @@
 [15:11:41] [Server thread/INFO]: Chupito2003[/127.6.117.219:52085] logged in with entity id 80002 at (1316.675949479806, 103.0, -511.7383209207343)
 [15:11:41] [Server thread/INFO]: Chupito2003 joined the game
 [15:11:41] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[15:44:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1318, y=96, z=-366} class_2338{x=1317, y=94, z=-366}
