@@ -7,14 +7,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-09-12 11:48:48 +0000",
       "minecraft:beach": "2025-09-10 17:45:10 +0000",
       "minecraft:forest": "2025-09-10 17:48:51 +0000",
       "minecraft:taiga": "2025-09-12 11:35:21 +0000",
       "minecraft:cherry_grove": "2025-09-10 18:09:08 +0000",
+      "minecraft:sunflower_plains": "2025-09-12 11:48:55 +0000",
       "minecraft:river": "2025-09-10 17:48:31 +0000",
       "minecraft:meadow": "2025-09-10 18:07:40 +0000",
       "minecraft:snowy_plains": "2025-09-10 21:04:19 +0000",
       "minecraft:dripstone_caves": "2025-09-10 21:17:19 +0000",
+      "minecraft:savanna": "2025-09-12 11:42:44 +0000",
       "minecraft:plains": "2025-09-10 17:45:15 +0000"
     },
     "done": false
@@ -2344,9 +2347,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-09-12 11:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
     },
     "done": true
   },
@@ -2356,9 +2377,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-09-12 11:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-12 11:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-12 11:44:14 +0000"
     },
     "done": true
   },
