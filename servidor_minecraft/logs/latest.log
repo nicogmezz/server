@@ -84,3 +84,13 @@
 [11:19:15] [Server thread/INFO]: Chupito2003 joined the game
 [11:19:15] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
 [11:52:16] [Server thread/INFO]: Seed: [5642964788653720400]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=42, z=234}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=42, z=236}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=41, z=238}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=41, z=239}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=944, y=42, z=239}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 15], pos: class_2338{x=944, y=41, z=240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 15], pos: class_2338{x=944, y=41, z=241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:04:48] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [59, 14], pos: class_2338{x=945, y=41, z=238}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[12:18:23] [Server thread/INFO]: Dytro_9 lost connection: Disconnected
+[12:18:23] [Server thread/INFO]: Dytro_9 left the game
