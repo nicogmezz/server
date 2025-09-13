@@ -65,6 +65,28 @@
       },
       "litematicVersion": 6,
       "dataVersion": 3218
+    },
+    {
+      "id": "10656d58-a3a0-4ca6-be7a-2b83519db6c5",
+      "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\Slime_farm-from-abfielder.litematic",
+      "display_name": "Slime Farm",
+      "hash": "24b91b48-fc68-3392-9ed0-9b04f7058e01",
+      "origin": {
+        "position": [
+          -1293,
+          63,
+          -1825
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "6a2210ce-19d1-366d-98b4-08f5f461c6ab",
+        "name": "Dytro_9_MC"
+      },
+      "litematicVersion": 6,
+      "dataVersion": 3578
     }
   ]
 }

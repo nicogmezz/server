@@ -23,6 +23,7 @@
       "minecraft:ocean": "2025-09-12 12:08:12 +0000",
       "minecraft:cherry_grove": "2025-09-10 18:09:31 +0000",
       "minecraft:sunflower_plains": "2025-09-12 11:48:53 +0000",
+      "minecraft:swamp": "2025-09-13 13:12:05 +0000",
       "minecraft:meadow": "2025-09-10 18:07:36 +0000",
       "minecraft:birch_forest": "2025-09-12 12:17:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-12 11:57:27 +0000",
@@ -442,7 +443,8 @@
       "minecraft:zombie": "2025-09-10 18:24:18 +0000",
       "minecraft:creeper": "2025-09-10 18:32:22 +0000",
       "minecraft:drowned": "2025-09-12 15:55:34 +0000",
-      "minecraft:zombie_villager": "2025-09-10 18:31:55 +0000"
+      "minecraft:zombie_villager": "2025-09-10 18:31:55 +0000",
+      "minecraft:slime": "2025-09-13 13:12:43 +0000"
     },
     "done": false
   },
@@ -2559,9 +2561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-13 13:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/black_bundle": {
     "criteria": {
       "has_black_dye": "2025-09-13 12:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
     },
     "done": true
   },
@@ -2571,9 +2585,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-13 13:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-09-13 12:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
     },
     "done": true
   },
@@ -2583,9 +2615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 13:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-09-13 12:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-13 13:22:00 +0000"
     },
     "done": true
   },
@@ -2598,6 +2642,18 @@
   "minecraft:recipes/decorations/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-09-13 12:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
     },
     "done": true
   },
@@ -2616,6 +2672,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-09-13 13:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
     },
     "done": true
   },
@@ -2649,6 +2711,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-13 12:47:18 +0000"
@@ -2664,6 +2738,30 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-09-13 12:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 13:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
     },
     "done": true
   },
@@ -2709,9 +2807,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-13 12:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-13 13:14:21 +0000"
     },
     "done": true
   },
@@ -2745,9 +2861,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-13 13:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-09-13 12:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-13 13:22:18 +0000"
     },
     "done": true
   },
