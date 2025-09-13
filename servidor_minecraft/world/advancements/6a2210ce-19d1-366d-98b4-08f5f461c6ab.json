@@ -205,6 +205,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-13 14:26:50 +0000",
+      "cooked_chicken": "2025-09-13 14:45:44 +0000",
+      "cooked_mutton": "2025-09-13 14:54:02 +0000",
       "cooked_beef": "2025-09-13 13:38:13 +0000",
       "baked_potato": "2025-09-12 20:34:24 +0000"
     },
@@ -365,7 +367,8 @@
       "minecraft:skeleton": "2025-09-13 11:57:25 +0000",
       "minecraft:spider": "2025-09-13 11:56:52 +0000",
       "minecraft:zombie": "2025-09-13 11:57:12 +0000",
-      "minecraft:creeper": "2025-09-13 11:56:43 +0000"
+      "minecraft:creeper": "2025-09-13 11:56:43 +0000",
+      "minecraft:slime": "2025-09-13 14:44:45 +0000"
     },
     "done": false
   },
@@ -1457,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-09-13 14:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-13 14:26:07 +0000"
@@ -1472,6 +1481,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-09-13 14:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 14:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-13 14:52:53 +0000"
     },
     "done": true
   },
@@ -1496,6 +1517,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-09-13 14:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-13 14:44:52 +0000"
     },
     "done": true
   },
@@ -1526,6 +1553,18 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-09-13 14:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-13 14:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-13 14:50:19 +0000"
     },
     "done": true
   },
