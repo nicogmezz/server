@@ -1,5 +1,5 @@
-[18:50:50] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[18:50:50] [main/INFO]: Loading 42 mods:
+[11:30:23] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[11:30:23] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.133.4+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -49,33 +49,40 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[18:50:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:50:50] [main/INFO]: Compatibility level set to JAVA_21
-[18:50:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:50:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:51:00] [main/INFO]: Loaded 1407 recipes
-[18:51:00] [main/INFO]: Loaded 1520 advancements
-[18:51:01] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.601 ms
-[18:51:01] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:51:01] [Server thread/INFO]: Loading properties
-[18:51:01] [Server thread/INFO]: Default game type: SURVIVAL
-[18:51:01] [Server thread/INFO]: Generating keypair
-[18:51:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:51:01] [Server thread/INFO]: Using epoll channel type
-[18:51:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:51:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:51:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:51:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:51:01] [Server thread/INFO]: Preparing level "world"
-[18:51:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:04] [Server thread/INFO]: Time elapsed: 2690 ms
-[18:51:04] [Server thread/INFO]: Done (3.138s)! For help, type "help"
-[18:51:08] [Server thread/INFO]: Dytro_9[/127.158.192.254:43107] logged in with entity id 8 at (1289.8986122709086, 103.0, -495.6734283930217)
-[18:51:08] [Server thread/INFO]: Dytro_9 joined the game
-[18:51:08] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[11:30:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[11:30:23] [main/INFO]: Compatibility level set to JAVA_21
+[11:30:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11:30:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:30:34] [main/INFO]: Loaded 1407 recipes
+[11:30:34] [main/INFO]: Loaded 1520 advancements
+[11:30:34] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.578 ms
+[11:30:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[11:30:34] [Server thread/INFO]: Loading properties
+[11:30:34] [Server thread/INFO]: Default game type: SURVIVAL
+[11:30:34] [Server thread/INFO]: Generating keypair
+[11:30:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:30:34] [Server thread/INFO]: Using epoll channel type
+[11:30:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:30:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:30:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:30:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:30:34] [Server thread/INFO]: Preparing level "world"
+[11:30:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:30:39] [Server thread/INFO]: Time elapsed: 4494 ms
+[11:30:39] [Server thread/INFO]: Done (4.877s)! For help, type "help"
+[11:30:41] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:49533] logged in with entity id 8 at (1308.0525921509195, 108.0, -495.17441868801353)
+[11:30:41] [Server thread/INFO]: Dytro_9_MC joined the game
+[11:30:41] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[11:36:43] [Server thread/INFO]: Chupito2003[/127.6.117.219:40631] logged in with entity id 1483 at (1307.859728439371, 108.0, -502.9890877992474)
+[11:36:43] [Server thread/INFO]: Chupito2003 joined the game
+[11:36:44] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[11:39:40] [Server thread/INFO]: Dytro_9_MC has made the advancement [Sweet Dreams]
