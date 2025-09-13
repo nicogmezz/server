@@ -1,5 +1,5 @@
-[11:30:23] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[11:30:23] [main/INFO]: Loading 42 mods:
+[13:59:52] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[13:59:53] [main/INFO]: Loading 42 mods:
 	- fabric-api 0.133.4+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -49,120 +49,42 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[11:30:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[11:30:23] [main/INFO]: Compatibility level set to JAVA_21
-[11:30:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11:30:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:30:34] [main/INFO]: Loaded 1407 recipes
-[11:30:34] [main/INFO]: Loaded 1520 advancements
-[11:30:34] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.578 ms
-[11:30:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[11:30:34] [Server thread/INFO]: Loading properties
-[11:30:34] [Server thread/INFO]: Default game type: SURVIVAL
-[11:30:34] [Server thread/INFO]: Generating keypair
-[11:30:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:30:34] [Server thread/INFO]: Using epoll channel type
-[11:30:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:30:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:30:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:30:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:30:34] [Server thread/INFO]: Preparing level "world"
-[11:30:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:30:39] [Server thread/INFO]: Time elapsed: 4494 ms
-[11:30:39] [Server thread/INFO]: Done (4.877s)! For help, type "help"
-[11:30:41] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:49533] logged in with entity id 8 at (1308.0525921509195, 108.0, -495.17441868801353)
-[11:30:41] [Server thread/INFO]: Dytro_9_MC joined the game
-[11:30:41] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[11:36:43] [Server thread/INFO]: Chupito2003[/127.6.117.219:40631] logged in with entity id 1483 at (1307.859728439371, 108.0, -502.9890877992474)
-[11:36:43] [Server thread/INFO]: Chupito2003 joined the game
-[11:36:44] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[11:39:40] [Server thread/INFO]: Dytro_9_MC has made the advancement [Sweet Dreams]
-[11:56:43] [Server thread/INFO]: Dytro_9_MC has made the advancement [Monster Hunter]
-[11:59:49] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
-[11:59:49] [Server thread/INFO]: Dytro_9_MC left the game
-[12:26:34] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:36985] logged in with entity id 13236 at (1281.2801707718356, 108.0, -477.36703337724697)
-[12:26:34] [Server thread/INFO]: Dytro_9_MC joined the game
-[12:26:34] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[12:43:55] [Server thread/INFO]: Dytro_9_MC has made the advancement [What a Deal!]
-[12:44:26] [Server thread/INFO]: Dytro_9_MC has made the advancement [Acquire Hardware]
-[12:44:34] [Server thread/INFO]: Dytro_9_MC has made the advancement [Ice Bucket Challenge]
-[12:48:24] [Server thread/INFO]: [Not Secure] <Dytro_9_MC> -155 -218
-[12:50:27] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at knot/net.minecraft.class_9136.method_56426(class_9136.java:50) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_9136.encode(class_9136.java:14) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.method_10838(class_2545.java:26) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2545.encode(class_2545.java:12) ~[server-intermediary.jar:?]
-	at knot/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535$2.write(class_2535.java:525) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_2535.method_36942(class_2535.java:351) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10764(class_2535.java:343) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_52906(class_2535.java:325) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.method_10752(class_2535.java:319) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:170) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.ChannelInboundHandlerAdapter.exceptionCaught(ChannelInboundHandlerAdapter.java:143) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:447) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202) ~[netty-handler-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164) ~[netty-handler-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:455) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290) ~[netty-codec-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/net.minecraft.class_3238.channelRead(class_3238.java:74) ~[server-intermediary.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289) ~[netty-handler-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1357) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:868) ~[netty-transport-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:799) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:?]
-	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
-	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[13:00:36] [Server thread/INFO]: Dytro_9_MC has made the advancement [We Need to Go Deeper]
-[13:06:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=137, y=92, z=-94} class_2338{x=131, y=100, z=-219}
-[13:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
-[13:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[13:21:20] [Server thread/INFO]: Dytro_9_MC has made the advancement [Stone Age]
-[13:38:13] [Server thread/INFO]: Chupito2003 lost connection: Disconnected
-[13:38:13] [Server thread/INFO]: Chupito2003 left the game
+[13:59:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:59:53] [main/INFO]: Compatibility level set to JAVA_21
+[13:59:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:00:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:00:03] [main/INFO]: Loaded 1407 recipes
+[14:00:03] [main/INFO]: Loaded 1520 advancements
+[14:00:03] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.683 ms
+[14:00:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[14:00:03] [Server thread/INFO]: Loading properties
+[14:00:03] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:03] [Server thread/INFO]: Generating keypair
+[14:00:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:00:03] [Server thread/INFO]: Using epoll channel type
+[14:00:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:00:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:00:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:00:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:00:03] [Server thread/INFO]: Preparing level "world"
+[14:00:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:00:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:00:06] [Server thread/INFO]: Time elapsed: 2697 ms
+[14:00:06] [Server thread/INFO]: Done (3.038s)! For help, type "help"
+[14:00:06] [Server thread/WARN]: loadServer(): Found a dirty placements.json; re-saving with corrections.
+[14:00:57] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:44087] logged in with entity id 8 at (-1260.7770981496947, 63.0, -1771.9265856874638)
+[14:00:57] [Server thread/INFO]: Dytro_9_MC joined the game
+[14:00:58] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[14:01:28] [Server thread/INFO]: Chupito2003[/127.6.117.219:42173] logged in with entity id 342 at (-1303.8611348402167, 28.0, -1785.3639358860105)
+[14:01:28] [Server thread/INFO]: Chupito2003 joined the game
+[14:01:29] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[14:04:20] [Server thread/INFO]: Carlangas004[/127.111.126.117:40045] logged in with entity id 1121 at (171.5, 66.0, -147.5)
+[14:04:20] [Server thread/INFO]: Carlangas004 joined the game
+[14:04:20] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[14:10:46] [Server thread/INFO]: Carlangas004 has made the advancement [Stone Age]
+[14:11:05] [Server thread/INFO]: Carlangas004 has made the advancement [Getting an Upgrade]
