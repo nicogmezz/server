@@ -3002,45 +3002,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2025-09-14 12:42:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-09-14 12:42:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-09-14 12:42:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-09-14 13:49:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-09-14 12:21:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-09-14 13:30:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-09-14 13:49:21 +0000"
     },
     "done": true
   },
@@ -3050,21 +3014,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-09-14 12:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-09-14 12:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-09-14 12:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-09-14 12:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-09-14 12:42:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-09-14 12:42:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
-      "has_deepslate_redstone_ore": "2025-09-14 12:38:17 +0000"
+      "has_deepslate_gold_ore": "2025-09-14 12:42:46 +0000"
     },
     "done": true
   },
@@ -3080,9 +3068,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_deepslate_diamond_ore": "2025-09-14 12:42:17 +0000"
+      "has_water_bucket": "2025-09-14 13:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-14 13:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-14 13:49:21 +0000"
     },
     "done": true
   },
