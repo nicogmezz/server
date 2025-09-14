@@ -460,6 +460,7 @@
       "apple": "2025-09-12 11:31:34 +0000",
       "bread": "2025-09-10 18:15:02 +0000",
       "cooked_chicken": "2025-09-12 12:43:05 +0000",
+      "rotten_flesh": "2025-09-14 12:49:15 +0000",
       "cooked_mutton": "2025-09-10 17:54:56 +0000",
       "cooked_beef": "2025-09-12 11:48:34 +0000",
       "baked_potato": "2025-09-12 12:55:31 +0000",
@@ -3046,6 +3047,18 @@
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-09-14 12:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-14 12:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-14 12:48:41 +0000"
     },
     "done": true
   },
