@@ -109,6 +109,28 @@
       },
       "litematicVersion": 6,
       "dataVersion": 3578
+    },
+    {
+      "id": "7d7bc093-8d7c-411d-8a18-a56150944a4e",
+      "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\base_with_storage_b6bd6a-from-abfielder.litematic",
+      "display_name": "Unnamed",
+      "hash": "cac53bae-1bb0-30e5-ab03-330f2a3d4bd3",
+      "origin": {
+        "position": [
+          1120,
+          96,
+          -457
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "8af9a8d7-8ce1-3b8b-a4e0-c4d0509332d0",
+        "name": "Chupito2003"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
     }
   ]
 }
