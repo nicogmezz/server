@@ -23,6 +23,28 @@
       "dataVersion": 3337
     },
     {
+      "id": "b9dc0bbf-42a1-4a99-beba-5db7b5332e71",
+      "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\StoneBridge-from-abfielder.litematic",
+      "display_name": "Puente",
+      "hash": "7cc0d766-eb55-34e8-92e3-246eee350db3",
+      "origin": {
+        "position": [
+          1328,
+          59,
+          -496
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "6a2210ce-19d1-366d-98b4-08f5f461c6ab",
+        "name": "Dytro_9_MC"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4435
+    },
+    {
       "id": "e7d3ee97-3dba-4af6-bfe2-de74cc47286c",
       "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\COMPLETE Massive Open Survival Mega Base-from-abfielder.litematic",
       "display_name": "Unnamed",

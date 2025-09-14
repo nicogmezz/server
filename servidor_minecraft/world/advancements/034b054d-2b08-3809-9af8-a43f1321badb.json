@@ -418,6 +418,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-14 15:23:37 +0000",
       "apple": "2025-09-14 15:06:33 +0000",
       "cooked_mutton": "2025-09-13 14:57:48 +0000",
       "cooked_beef": "2025-09-13 14:11:29 +0000"
@@ -919,6 +920,18 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-14 15:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-14 15:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-14 15:24:12 +0000"
     },
     "done": true
   },
