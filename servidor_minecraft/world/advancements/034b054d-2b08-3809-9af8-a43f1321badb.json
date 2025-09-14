@@ -10,6 +10,8 @@
       "minecraft:beach": "2025-09-13 14:04:21 +0000",
       "minecraft:cherry_grove": "2025-09-13 14:22:43 +0000",
       "minecraft:river": "2025-09-13 14:05:25 +0000",
+      "minecraft:meadow": "2025-09-14 15:39:15 +0000",
+      "minecraft:snowy_plains": "2025-09-14 15:54:11 +0000",
       "minecraft:dripstone_caves": "2025-09-14 15:32:01 +0000",
       "minecraft:plains": "2025-09-13 14:04:46 +0000"
     },
@@ -422,7 +424,8 @@
       "cooked_porkchop": "2025-09-14 15:23:37 +0000",
       "apple": "2025-09-14 15:06:33 +0000",
       "cooked_mutton": "2025-09-13 14:57:48 +0000",
-      "cooked_beef": "2025-09-13 14:11:29 +0000"
+      "cooked_beef": "2025-09-13 14:11:29 +0000",
+      "baked_potato": "2025-09-14 15:41:12 +0000"
     },
     "done": false
   },
@@ -894,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-09-14 15:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-14 15:33:37 +0000"
@@ -915,6 +924,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-14 15:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
     },
     "done": true
   },
@@ -1008,6 +1023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-14 15:11:38 +0000"
@@ -1035,6 +1056,18 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-09-14 15:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
     },
     "done": true
   },
@@ -1071,6 +1104,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-14 15:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
     },
     "done": true
   },
@@ -1122,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-14 15:28:49 +0000"
@@ -1131,6 +1176,12 @@
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-09-14 15:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
     },
     "done": true
   },
@@ -1164,15 +1215,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-14 15:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-09-14 15:05:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-09-14 15:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-14 15:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-14 15:50:20 +0000"
     },
     "done": true
   },
@@ -1262,7 +1331,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-09-14 15:12:47 +0000"
+      "minecraft:skeleton": "2025-09-14 15:12:47 +0000",
+      "minecraft:zombie": "2025-09-14 15:44:44 +0000",
+      "minecraft:creeper": "2025-09-14 15:43:07 +0000"
     },
     "done": false
   },
@@ -1491,6 +1562,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-14 15:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-14 15:50:20 +0000"
     },
     "done": true
   },
