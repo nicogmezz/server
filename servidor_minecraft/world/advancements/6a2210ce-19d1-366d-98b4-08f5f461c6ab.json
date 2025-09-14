@@ -364,6 +364,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-14 12:10:27 +0000",
       "minecraft:skeleton": "2025-09-13 11:57:25 +0000",
       "minecraft:spider": "2025-09-13 11:56:52 +0000",
       "minecraft:zombie": "2025-09-13 11:57:12 +0000",
@@ -1583,6 +1584,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-09-13 14:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-14 12:10:27 +0000"
     },
     "done": true
   },
