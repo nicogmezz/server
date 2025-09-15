@@ -18,6 +18,7 @@
       "minecraft:snowy_plains": "2025-09-12 12:01:00 +0000",
       "minecraft:dripstone_caves": "2025-09-10 21:16:44 +0000",
       "minecraft:snowy_taiga": "2025-09-12 12:01:42 +0000",
+      "minecraft:ice_spikes": "2025-09-15 20:17:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-12 11:56:43 +0000",
       "minecraft:frozen_river": "2025-09-12 12:01:35 +0000",
       "minecraft:ocean": "2025-09-12 12:08:12 +0000",
@@ -28,7 +29,8 @@
       "minecraft:birch_forest": "2025-09-12 12:17:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-12 11:57:27 +0000",
       "minecraft:savanna": "2025-09-12 11:42:46 +0000",
-      "minecraft:plains": "2025-09-10 17:44:10 +0000"
+      "minecraft:plains": "2025-09-10 17:44:10 +0000",
+      "minecraft:jagged_peaks": "2025-09-15 20:13:21 +0000"
     },
     "done": false
   },
@@ -3177,6 +3179,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-09-15 20:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-09-15 20:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-09-15 20:02:22 +0000"
@@ -3186,6 +3200,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-09-15 19:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-09-15 20:17:22 +0000"
     },
     "done": true
   },
