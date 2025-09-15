@@ -327,3 +327,9 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [16:36:46] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
 [16:41:30] [Server thread/INFO]: mobafk lost connection: Killed
 [16:41:30] [Server thread/INFO]: mobafk left the game
+[17:30:46] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
+[17:30:46] [Server thread/INFO]: Dytro_9_MC left the game
+[17:31:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:33:00] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:50391] logged in with entity id 65518 at (1246.0560684636803, 70.0, -346.4888022125403)
+[17:33:00] [Server thread/INFO]: Dytro_9_MC joined the game
+[17:33:00] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
