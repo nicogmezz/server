@@ -369,6 +369,7 @@
     "criteria": {
       "minecraft:pillager": "2025-09-14 12:10:27 +0000",
       "minecraft:skeleton": "2025-09-13 11:57:25 +0000",
+      "minecraft:enderman": "2025-09-15 15:46:57 +0000",
       "minecraft:spider": "2025-09-13 11:56:52 +0000",
       "minecraft:zombie": "2025-09-13 11:57:12 +0000",
       "minecraft:creeper": "2025-09-13 11:56:43 +0000",
@@ -2293,33 +2294,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-09-15 14:57:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-09-15 14:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-09-15 13:45:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-09-15 14:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-09-15 14:52:56 +0000"
     },
     "done": true
   },
@@ -2335,12 +2312,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-15 13:46:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-15 13:45:21 +0000"
@@ -2350,12 +2321,6 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-09-15 13:45:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-09-15 13:46:34 +0000"
     },
     "done": true
   },
@@ -2374,6 +2339,42 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_string": "2025-09-15 13:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-15 13:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-15 13:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-09-15 14:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-09-15 14:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-15 14:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-15 14:57:27 +0000"
     },
     "done": true
   },
