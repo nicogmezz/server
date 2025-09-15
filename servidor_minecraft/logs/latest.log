@@ -1,5 +1,5 @@
-[12:42:35] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[12:42:35] [main/INFO]: Loading 63 mods:
+[13:03:38] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[13:03:38] [main/INFO]: Loading 63 mods:
 	- carpet 1.4.177+v250630
 	- essential-addons 2.1.0+1.21.8
 	   |-- arcade-commands 0.6.1-beta.19
@@ -71,209 +71,49 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[12:42:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[12:42:36] [main/INFO]: Compatibility level set to JAVA_17
-[12:42:36] [main/INFO]: Compatibility level set to JAVA_21
-[12:42:36] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
-[12:42:36] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
-[12:42:36] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[12:42:45] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:42:48] [main/INFO]: Loaded 1407 recipes
-[12:42:48] [main/INFO]: Loaded 1520 advancements
-[12:42:48] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.479 ms
-[12:42:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[12:42:48] [Server thread/INFO]: Loading properties
-[12:42:48] [Server thread/INFO]: Default game type: SURVIVAL
-[12:42:48] [Server thread/INFO]: Generating keypair
-[12:42:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:42:48] [Server thread/INFO]: Using epoll channel type
-[12:42:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:42:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:42:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:42:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:42:48] [Server thread/INFO]: Preparing level "world"
-[12:42:48] [Server thread/INFO]: Valid options: [true, false, ops, 0, 1, 2, 3, 4]
-[12:42:48] [Server thread/INFO]: Wrong value for commandPlayer: 0/carpet setDefault defaultloggers mobcaps,tps 0
-[12:42:48] [Server thread/ERROR]: [CM Error]: Failed to load setting: commandPlayer
-carpet.api.settings.InvalidRuleValueException: null
-	at knot/carpet.settings.ParsedRule.set(ParsedRule.java:296) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/carpet.settings.ParsedRule.set(ParsedRule.java:286) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/carpet.api.settings.SettingsManager.loadConfigurationFromConf(SettingsManager.java:418) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/carpet.api.settings.SettingsManager.attachServer(SettingsManager.java:278) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/carpet.CarpetServer.lambda$onServerLoaded$2(CarpetServer.java:89) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/carpet.CarpetServer.forEachManager(CarpetServer.java:208) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/carpet.CarpetServer.onServerLoaded(CarpetServer.java:89) ~[fabric-carpet-1.21.7-1.4.177+v250630.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.handler$zei000$carpet$serverLoaded(MinecraftServer.java:3187) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3176.method_3823(class_3176.java:184) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[12:42:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:42:51] [Server thread/INFO]: Time elapsed: 2388 ms
-[12:42:51] [Server thread/INFO]: Done (3.086s)! For help, type "help"
-[12:43:36] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:40813] logged in with entity id 5 at (1218.5657088957473, 78.0, -376.82199003690357)
-[12:43:36] [Server thread/INFO]: Dytro_9_MC joined the game
-[12:43:36] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[12:43:48] [Server thread/INFO]: Rule commandPlayer will now default to 0
-[12:44:04] [Server thread/INFO]: Rule commandPlayer will now default to 1
-[12:44:18] [Server thread/INFO]: Made Dytro_9_MC a server operator
-[12:44:39] [Server thread/INFO]: [Dytro_9_MC: Rule commandPlayer will now default to 0]
-[12:45:16] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps 0]
-[12:45:22] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps 1]
-[12:45:30] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps 0]
-[12:49:02] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps true]
-[12:49:17] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps false]
-[12:49:28] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps 1]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: All Carpet Mod settings:]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - allowListingFakePlayers [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - allowSpawningOfflinePlayers [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - antiCheatDisabled [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - broadcastToAll [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cakeAlwaysEat [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cameraModeCommandName [cs]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cameraModeRestoreLocation [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cameraModeSurvivalRestrictions [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cameraModeTeamTeleportBlacklist [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cameraModeTeleportBlacklist [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - carpetCommandPermissionLevel [ops] [2] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - carpets [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - chainStone [true] [false] [stick_to_all]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - cleanLogs [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - combinePotionDuration [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandBackup [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandCameraMode [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandDefuse [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandDistance [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandDraw [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandEnderChest [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandExtinguish [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandFly [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandGM [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandGod [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandHat [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandHeal [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandInfo [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandLagSpike [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandLog [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandMods [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandMore [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandNear [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandNightVision [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPerimeterInfo [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPlayer [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandProfile [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPublicKick [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPublicOp [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPublicSaveAll [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPublicScoreboard [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandPublicTeam [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandRename [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandRepair [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandScript [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandScriptACE [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandSpawn [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandStrength [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandTick [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandTop [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandTrackAI [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandViewDistance [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandWarp [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - commandWorkbench [true] [false] [ops] [0] [1] [2] [3] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - creativeFlyDrag [0.09]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - creativeFlySpeed [1.0]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - creativeNoClip [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - creativePlayersLoadChunks [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - ctrlQCraftingFix [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - customMOTD [_]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - defaultLoggers [none] [tps] [mobcaps,tps] [mobcaps,tps 1]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - desertShrubs [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - essentialCarefulBreak [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - essentialCarefulDrop [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - explosionNoBlockDamage [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - fakePlayerDropInventoryOnKill [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - fastRedstoneDust [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - fillUpdates [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - flippinCactus [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - fogOff [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - forceloadLimit [256]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - hardcodeTNTangle [-1] [-1.0]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - hopperCounters [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - huskSpawningInTemples [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - infiniteItems [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - interactionUpdates [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - lagFreeSpawning [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - language [en_us] [fr_fr] [es_ar] [pt_br] [zh_cn] [zh_tw]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - lightningKillsDropsFix [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - liquidDamageDisabled [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - maxEntityCollisions [0] [1] [20]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - mergeTNT [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - minecartBoosting [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - missingTools [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - moreBlueSkulls [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - movableAmethyst [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - movableBlockEntities [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - optimizedTNT [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - perfPermissionLevel [2] [4]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - persistentParrots [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - phantomsObeyMobcaps [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - piglinsSpawningInBastions [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - pingPlayerListLimit [0] [12] [20] [40]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - placementRotationFix [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - pushLimit [10] [12] [14] [100]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - quasiConnectivity [1]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - railPowerLimit [9] [15] [30]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - reloadFakePlayers [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - removeItemEntitiesAfterThreshold [0] [200] [500] [1000]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - removeWarnMismatchBlockPos [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - removeWarnOversizedChunk [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - removeWarnRemovedEntity [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - removeXpEntitiesAfterThreshold [0] [100] [250] [500]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - renewableBlackstone [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - renewableCoral [false] [expanded] [true]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - renewableDeepslate [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - renewableSponges [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - rotatorBlock [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - savePlayerActions [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - scriptsAppStore [gnembon/scarpet/contents/programs]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - scriptsAutoload [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - scriptsDebugging [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - scriptsOptimization [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - sculkSensorRange [8] [16] [32]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - sensitiveBamboo [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - sensitiveSugarCane [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - shulkerSpawningInEndCities [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - shulkerception [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - silverFishDropGravel [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - simulationDistance [0] [12] [16] [32]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - smoothClientAnimations [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - spectatorPotionNoCountdown [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - stackableShulkerBoxes [false] [true] [16]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - stackableShulkerComparatorOverloadFix [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - stackableShulkersInPlayerInventories [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - stackableShulkersWithItems [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - structureBlockIgnored [minecraft:structure_void] [minecraft:air]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - structureBlockKillEntities [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - structureBlockLimit [48] [96] [192] [256]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - structureBlockOutlineDistance [96] [192] [2048]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - structureBlockReplaceFluids [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - summonNaturalLightning [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - superSecretSetting [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - thickFungusGrowth [false] [random] [all]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - tickSyncedWorldBorders [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - tntDoNotUpdate [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - tntPrimerMomentumRemoved [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - tntRandomRange [-1] [-1.0]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - updateSuppressionBlock [-1] [0] [10] [50]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - viewDistance [0] [12] [16] [32]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - xpFromExplosions [true] [false]]
-[12:49:46] [Server thread/INFO]: [Dytro_9_MC: - xpNoCooldown [true] [false]]
-[12:50:10] [Server thread/INFO]: [Dytro_9_MC: defaultLoggers: mobcaps,tps, [Change permanently?]]
-[12:50:24] [Server thread/INFO]: [Dytro_9_MC: Rule defaultLoggers will now default to mobcaps,tps]
-[12:51:48] [Server thread/INFO]: [Dytro_9_MC: commandPlayer: true, [Change permanently?]]
-[12:51:54] [Server thread/INFO]: [Dytro_9_MC: Rule commandPlayer will now default to true]
+[13:03:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:03:38] [main/INFO]: Compatibility level set to JAVA_17
+[13:03:38] [main/INFO]: Compatibility level set to JAVA_21
+[13:03:38] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
+[13:03:38] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
+[13:03:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:03:48] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:03:50] [main/INFO]: Loaded 1407 recipes
+[13:03:50] [main/INFO]: Loaded 1520 advancements
+[13:03:50] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.447 ms
+[13:03:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:03:50] [Server thread/INFO]: Loading properties
+[13:03:50] [Server thread/INFO]: Default game type: SURVIVAL
+[13:03:50] [Server thread/INFO]: Generating keypair
+[13:03:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:03:50] [Server thread/INFO]: Using epoll channel type
+[13:03:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:03:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:03:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:03:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:03:50] [Server thread/INFO]: Preparing level "world"
+[13:03:50] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
+[13:03:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:03:54] [Server thread/INFO]: Time elapsed: 3081 ms
+[13:03:54] [Server thread/INFO]: Done (3.600s)! For help, type "help"
+[13:04:05] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:38909] logged in with entity id 5 at (1242.8397383828678, 71.0, -324.8503888505346)
+[13:04:05] [Server thread/INFO]: Dytro_9_MC joined the game
+[13:04:06] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[13:05:36] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
+[13:05:36] [Server thread/INFO]: Dytro_9_MC left the game
+[13:06:22] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:51911] logged in with entity id 591 at (1195.2861069805504, 71.0, -336.8489590778448)
+[13:06:22] [Server thread/INFO]: Dytro_9_MC joined the game
+[13:06:22] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[13:06:36] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
+[13:06:36] [Server thread/INFO]: Dytro_9_MC left the game
+[13:07:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:11:53] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:39347] logged in with entity id 932 at (1195.1386364212287, 71.0, -335.1530047844014)
+[13:11:53] [Server thread/INFO]: Dytro_9_MC joined the game
+[13:11:53] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
