@@ -353,3 +353,4 @@ com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any pr
 [20:17:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1424, y=110, z=-696} class_2338{x=1425, y=114, z=-696}
 [20:17:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1424, y=110, z=-696} class_2338{x=1425, y=114, z=-696}
 [20:17:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1424, y=110, z=-696} class_2338{x=1425, y=114, z=-696}
+[20:19:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1415, y=103, z=-705} class_2338{x=1417, y=101, z=-706}
