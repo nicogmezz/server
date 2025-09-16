@@ -1,5 +1,5 @@
-[20:36:46] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[20:36:46] [main/INFO]: Loading 63 mods:
+[11:16:08] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[11:16:09] [main/INFO]: Loading 63 mods:
 	- carpet 1.4.177+v250630
 	- essential-addons 2.1.0+1.21.8
 	   |-- arcade-commands 0.6.1-beta.19
@@ -71,40 +71,39 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[20:36:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:36:46] [main/INFO]: Compatibility level set to JAVA_17
-[20:36:46] [main/INFO]: Compatibility level set to JAVA_21
-[20:36:46] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
-[20:36:46] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
-[20:36:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:36:55] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:36:58] [main/INFO]: Loaded 1407 recipes
-[20:36:58] [main/INFO]: Loaded 1520 advancements
-[20:36:58] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.564 ms
-[20:36:58] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:36:58] [Server thread/INFO]: Loading properties
-[20:36:58] [Server thread/INFO]: Default game type: SURVIVAL
-[20:36:58] [Server thread/INFO]: Generating keypair
-[20:36:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:36:58] [Server thread/INFO]: Using epoll channel type
-[20:36:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:36:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:36:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:36:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:36:58] [Server thread/INFO]: Preparing level "world"
-[20:36:58] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
-[20:36:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:37:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:37:01] [Server thread/INFO]: Time elapsed: 2558 ms
-[20:37:01] [Server thread/INFO]: Done (3.215s)! For help, type "help"
-[20:37:02] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:49425] logged in with entity id 5 at (1312.699999988079, 107.0, -663.3000000119209)
-[20:37:02] [Server thread/INFO]: Dytro_9_MC joined the game
-[20:37:03] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:37:38] [Server thread/INFO]: Chupito2003[/127.6.117.219:44603] logged in with entity id 589 at (1245.1696173595876, 111.0, -783.7779365815737)
-[20:37:38] [Server thread/INFO]: Chupito2003 joined the game
-[20:37:39] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[11:16:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[11:16:10] [main/INFO]: Compatibility level set to JAVA_17
+[11:16:10] [main/INFO]: Compatibility level set to JAVA_21
+[11:16:10] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
+[11:16:10] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
+[11:16:11] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11:16:19] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:16:22] [main/INFO]: Loaded 1407 recipes
+[11:16:22] [main/INFO]: Loaded 1520 advancements
+[11:16:22] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.175 ms
+[11:16:22] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[11:16:22] [Server thread/INFO]: Loading properties
+[11:16:22] [Server thread/INFO]: Default game type: SURVIVAL
+[11:16:22] [Server thread/INFO]: Generating keypair
+[11:16:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:16:22] [Server thread/INFO]: Using epoll channel type
+[11:16:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:16:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:16:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:16:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:16:22] [Server thread/INFO]: Preparing level "world"
+[11:16:22] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
+[11:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:16:27] [Server thread/INFO]: Time elapsed: 3845 ms
+[11:16:27] [Server thread/INFO]: Done (4.455s)! For help, type "help"
+[11:17:09] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:55389] logged in with entity id 5 at (1267.5567845842927, 108.0, -647.8059272245707)
+[11:17:09] [Server thread/INFO]: Dytro_9_MC joined the game
+[11:17:09] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
