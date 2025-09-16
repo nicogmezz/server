@@ -724,11 +724,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:ice_spikes": "2025-09-16 20:08:44 +0000",
+      "minecraft:snowy_slopes": "2025-09-16 20:09:21 +0000",
       "minecraft:frozen_river": "2025-09-16 20:03:23 +0000",
+      "minecraft:deep_dark": "2025-09-16 20:08:55 +0000",
       "minecraft:cherry_grove": "2025-09-16 19:30:54 +0000",
       "minecraft:river": "2025-09-16 19:26:36 +0000",
       "minecraft:meadow": "2025-09-16 19:29:20 +0000",
       "minecraft:snowy_plains": "2025-09-16 20:04:01 +0000",
+      "minecraft:dripstone_caves": "2025-09-16 20:08:41 +0000",
       "minecraft:plains": "2025-09-16 19:25:44 +0000"
     },
     "done": false
@@ -853,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-16 20:06:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-16 19:37:38 +0000"
@@ -892,6 +902,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-09-16 19:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-16 20:06:42 +0000"
     },
     "done": true
   },

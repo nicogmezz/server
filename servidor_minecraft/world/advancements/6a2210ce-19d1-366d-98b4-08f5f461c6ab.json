@@ -16,6 +16,8 @@
       "minecraft:snowy_plains": "2025-09-16 15:58:30 +0000",
       "minecraft:stony_shore": "2025-09-16 17:38:19 +0000",
       "minecraft:dripstone_caves": "2025-09-14 13:18:16 +0000",
+      "minecraft:ice_spikes": "2025-09-16 20:08:46 +0000",
+      "minecraft:deep_dark": "2025-09-16 20:08:59 +0000",
       "minecraft:ocean": "2025-09-16 17:36:14 +0000",
       "minecraft:cherry_grove": "2025-09-13 12:41:59 +0000",
       "minecraft:swamp": "2025-09-13 13:12:03 +0000",
@@ -3135,6 +3137,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-09-16 20:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-16 20:09:29 +0000"
     },
     "done": true
   },
