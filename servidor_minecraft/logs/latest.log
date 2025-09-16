@@ -111,3 +111,9 @@
 [17:55:10] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:55197] logged in with entity id 16237 at (-469.20548241250737, 63.0, 396.32894590698936)
 [17:55:10] [Server thread/INFO]: Dytro_9_MC joined the game
 [17:55:10] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[18:11:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1218, y=98, z=-501} class_2338{x=1219, y=98, z=-501}
+[18:11:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1218, y=98, z=-501} class_2338{x=1219, y=98, z=-501}
+[18:11:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1218, y=98, z=-501} class_2338{x=1219, y=98, z=-501}
+[18:11:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1218, y=98, z=-501} class_2338{x=1219, y=98, z=-501}
+[18:11:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1218, y=98, z=-501} class_2338{x=1219, y=98, z=-501}
+[18:14:18] [Server thread/INFO]: Dytro_9_MC was doomed to fall by Hoglin
