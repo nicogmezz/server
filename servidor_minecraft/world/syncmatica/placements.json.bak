@@ -23,6 +23,28 @@
       "dataVersion": 3337
     },
     {
+      "id": "18999762-98a7-4aef-9bf3-e65bd1fd5116",
+      "file_name": "C:\\Users\\chans\\AppData\\Roaming\\.minecraft\\schematics\\Shulkercraft Storage System-from-abfielder.litematic",
+      "display_name": "Shulkercraft Storage System",
+      "hash": "829f703a-46d3-39e0-a884-00b2009a3335",
+      "origin": {
+        "position": [
+          1290,
+          83,
+          -551
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "8af9a8d7-8ce1-3b8b-a4e0-c4d0509332d0",
+        "name": "Chupito2003"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 4189
+    },
+    {
       "id": "b9dc0bbf-42a1-4a99-beba-5db7b5332e71",
       "file_name": "C:\\Users\\alvag\\AppData\\Roaming\\ModrinthApp\\profiles\\1.21.8\\schematics\\StoneBridge-from-abfielder.litematic",
       "display_name": "Unnamed",
