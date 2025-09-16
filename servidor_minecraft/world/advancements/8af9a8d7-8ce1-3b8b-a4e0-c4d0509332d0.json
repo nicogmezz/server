@@ -447,6 +447,7 @@
       "minecraft:cave_spider": "2025-09-10 21:24:15 +0000",
       "minecraft:piglin": "2025-09-16 21:21:15 +0000",
       "minecraft:vindicator": "2025-09-16 21:12:46 +0000",
+      "minecraft:enderman": "2025-09-16 22:24:21 +0000",
       "minecraft:spider": "2025-09-10 20:12:14 +0000",
       "minecraft:zombie": "2025-09-10 18:24:18 +0000",
       "minecraft:creeper": "2025-09-10 18:32:22 +0000",
@@ -3255,6 +3256,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-09-16 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-16 22:24:10 +0000"
     },
     "done": true
   },
