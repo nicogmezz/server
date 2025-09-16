@@ -119,3 +119,7 @@
 [12:03:48] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:49611] logged in with entity id 12492 at (1205.9049938154621, 99.9375, -508.293844279376)
 [12:03:48] [Server thread/INFO]: Dytro_9_MC joined the game
 [12:03:48] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[12:08:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=100, z=-218} class_2338{x=-77, y=100, z=-218}
+[12:13:26] [Server thread/INFO]: Slime[local] logged in with entity id 19587 at (184.5, 67.0, -150.5)
+[12:13:26] [Server thread/INFO]: Slime joined the game
+[12:17:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=33, y=99, z=-216} class_2338{x=62, y=100, z=-218}
