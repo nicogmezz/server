@@ -125,3 +125,8 @@
 [12:17:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=33, y=99, z=-216} class_2338{x=62, y=100, z=-218}
 [12:27:06] [Server thread/INFO]: Chupito2003 lost connection: Disconnected
 [12:27:06] [Server thread/INFO]: Chupito2003 left the game
+[12:37:52] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
+[12:37:52] [Server thread/INFO]: Dytro_9_MC left the game
+[12:37:54] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:35649] logged in with entity id 33993 at (1285.4448650053444, 109.5, -504.4360167760399)
+[12:37:54] [Server thread/INFO]: Dytro_9_MC joined the game
+[12:37:54] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
