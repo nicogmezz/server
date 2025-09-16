@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 20:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-09-16 19:57:12 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-09-16 19:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 20:25:14 +0000"
     },
     "done": true
   },
@@ -383,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 20:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-16 19:37:38 +0000"
@@ -542,6 +560,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-09-16 19:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-09-16 20:17:51 +0000"
     },
     "done": true
   },
