@@ -1,5 +1,5 @@
-[19:15:42] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[19:15:42] [main/INFO]: Loading 63 mods:
+[12:11:25] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[12:11:25] [main/INFO]: Loading 63 mods:
 	- carpet 1.4.177+v250630
 	- essential-addons 2.1.0+1.21.8
 	   |-- arcade-commands 0.6.1-beta.19
@@ -71,93 +71,38 @@
 	- minecraft 1.21.8
 	- syncmatica 0.3.15
 	   \-- fabric-permissions-api-v0 0.4.1
-[19:15:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:15:42] [main/INFO]: Compatibility level set to JAVA_17
-[19:15:42] [main/INFO]: Compatibility level set to JAVA_21
-[19:15:42] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
-[19:15:42] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
-[19:15:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:15:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:15:53] [main/INFO]: Loaded 1407 recipes
-[19:15:53] [main/INFO]: Loaded 1520 advancements
-[19:15:53] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.787 ms
-[19:15:53] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:15:53] [Server thread/INFO]: Loading properties
-[19:15:53] [Server thread/INFO]: Default game type: SURVIVAL
-[19:15:53] [Server thread/INFO]: Generating keypair
-[19:15:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:15:54] [Server thread/INFO]: Using epoll channel type
-[19:15:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:15:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:15:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:15:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:15:54] [Server thread/INFO]: Preparing level "world"
-[19:15:54] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
-[19:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:15:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:15:57] [Server thread/INFO]: Time elapsed: 2449 ms
-[19:15:57] [Server thread/INFO]: Done (3.145s)! For help, type "help"
-[19:16:28] [Server thread/INFO]: Dytro_9_MC[/127.158.192.254:50271] logged in with entity id 5 at (138.0258600788422, 99.0, -144.56274733461132)
-[19:16:28] [Server thread/INFO]: Dytro_9_MC joined the game
-[19:16:29] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[19:25:43] [Server thread/INFO]: Fraylu[/127.165.112.138:59235] logged in with entity id 2073 at (185.5, 70.0, -143.5)
-[19:25:43] [Server thread/INFO]: Fraylu joined the game
-[19:25:43] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[19:28:01] [Server thread/INFO]: Fraylu has made the advancement [Cover Me with Diamonds]
-[19:34:16] [Server thread/INFO]: Fraylu has made the advancement [Isn't It Iron Pick]
-[19:36:22] [Server thread/INFO]: Fraylu has made the advancement [Acquire Hardware]
-[19:37:12] [Server thread/INFO]: mobafk[local] logged in with entity id 8368 at (1199.5, 188.0, -245.5)
-[19:37:12] [Server thread/INFO]: mobafk joined the game
-[19:42:31] [Server thread/INFO]: Fraylu has made the advancement [Stone Age]
-[19:42:55] [Server thread/INFO]: Fraylu has made the advancement [Monster Hunter]
-[19:51:40] [Server thread/INFO]: mobafk lost connection: Killed
-[19:51:40] [Server thread/INFO]: mobafk left the game
-[20:09:29] [Server thread/INFO]: Dytro_9_MC has made the advancement [Sneak 100]
-[20:23:27] [Server thread/INFO]: Chupito2003[/127.6.117.219:60663] logged in with entity id 23266 at (1381.641328289515, 110.0, -468.7994647813811)
-[20:23:27] [Server thread/INFO]: Chupito2003 joined the game
-[20:23:28] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:27:55] [Server thread/INFO]: Carlangas004[/127.111.126.117:58433] logged in with entity id 25036 at (1299.699999988079, 100.0, -509.4460526609392)
-[20:27:55] [Server thread/INFO]: Carlangas004 joined the game
-[20:27:55] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:29:39] [Server thread/INFO]: Fraylu has made the advancement [Diamonds!]
-[20:30:02] [Server thread/INFO]: Chupito2003 lost connection: Disconnected
-[20:30:02] [Server thread/INFO]: Chupito2003 left the game
-[20:31:53] [Server thread/INFO]: Chupito2003[/127.6.117.219:54135] logged in with entity id 25955 at (1291.9947920168943, 103.0, -503.05219379487227)
-[20:31:53] [Server thread/INFO]: Chupito2003 joined the game
-[20:31:53] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:33:57] [Server thread/INFO]: Carlangas004 was slain by Phantom
-[20:45:28] [Server thread/INFO]: Chupito2003 was slain by Carlangas004
-[20:46:59] [Server thread/INFO]: Carlangas004 was slain by Chupito2003
-[20:47:22] [Server thread/INFO]: Chupito2003 was slain by Carlangas004
-[20:47:50] [Server thread/INFO]: Chupito2003 was slain by Carlangas004
-[20:48:35] [Server thread/INFO]: Carlangas004 was slain by Dytro_9_MC
-[20:49:12] [Server thread/INFO]: Carlangas004 was slain by Chupito2003
-[20:50:05] [Server thread/INFO]: Fraylu lost connection: Timed out
-[20:50:05] [Server thread/INFO]: Fraylu left the game
-[20:50:05] [Server thread/WARN]: handleDisconnection() called twice
-[20:50:06] [Server thread/INFO]: Fraylu[/127.165.112.138:45621] logged in with entity id 35885 at (1319.7879213661033, 73.0, -512.6608392418584)
-[20:50:06] [Server thread/INFO]: Fraylu joined the game
-[20:50:06] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:50:36] [Server thread/INFO]: Fraylu lost connection: Timed out
-[20:50:36] [Server thread/INFO]: Fraylu left the game
-[20:51:25] [Server thread/INFO]: Fraylu[/127.165.112.138:57729] logged in with entity id 36436 at (1321.368206214508, 73.0, -511.03289743495475)
-[20:51:25] [Server thread/INFO]: Fraylu joined the game
-[20:51:25] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
-[20:57:01] [Server thread/INFO]: [Not Secure] <Dytro_9_MC> 1336 73 -551
-[21:01:39] [Server thread/INFO]: Fraylu lost connection: Disconnected
-[21:01:39] [Server thread/INFO]: Fraylu left the game
-[21:03:27] [Server thread/INFO]: Carlangas004 lost connection: Disconnected
-[21:03:27] [Server thread/INFO]: Carlangas004 left the game
-[21:12:46] [Server thread/INFO]: Chupito2003 has made the advancement [Voluntary Exile]
-[21:16:59] [Server thread/INFO]: Chupito2003 has completed the challenge [Hero of the Village]
-[21:17:44] [Server thread/INFO]: Chupito2003 was doomed to fall by Hoglin
-[21:24:51] [Server thread/INFO]: Dytro_9_MC lost connection: Disconnected
-[21:24:51] [Server thread/INFO]: Dytro_9_MC left the game
-[22:24:10] [Server thread/INFO]: Chupito2003 has reached the goal [Postmortal]
-[23:06:00] [Server thread/INFO]: Chupito2003 lost connection: Disconnected
-[23:06:00] [Server thread/INFO]: Chupito2003 left the game
-[23:07:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:11:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:11:26] [main/INFO]: Compatibility level set to JAVA_17
+[12:11:26] [main/INFO]: Compatibility level set to JAVA_21
+[12:11:26] [main/WARN]: Error loading class: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers (java.lang.ClassNotFoundException: eu/pb4/polymer/common/impl/entity/InternalEntityHelpers)
+[12:11:26] [main/WARN]: @Mixin target eu.pb4.polymer.common.impl.entity.InternalEntityHelpers was not found arcade-extensions.mixins.json:compat.InternalEntityHelpersMixin from mod arcade-extensions
+[12:11:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[12:11:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:11:38] [main/INFO]: Loaded 1407 recipes
+[12:11:38] [main/INFO]: Loaded 1520 advancements
+[12:11:38] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.707 ms
+[12:11:38] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[12:11:38] [Server thread/INFO]: Loading properties
+[12:11:38] [Server thread/INFO]: Default game type: SURVIVAL
+[12:11:38] [Server thread/INFO]: Generating keypair
+[12:11:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:11:38] [Server thread/INFO]: Using epoll channel type
+[12:11:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:11:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:11:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:11:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:11:38] [Server thread/INFO]: Preparing level "world"
+[12:11:38] [Server thread/INFO]: [CM] Loaded 2 settings from carpet.conf
+[12:11:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:11:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:11:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:11:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:11:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:11:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:11:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:11:42] [Server thread/INFO]: Time elapsed: 2598 ms
+[12:11:42] [Server thread/INFO]: Done (3.485s)! For help, type "help"
+[12:12:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:14:14] [Server thread/INFO]: Chupito2003[/127.6.117.219:60431] logged in with entity id 6 at (1279.5, 103.0, -500.5)
+[12:14:14] [Server thread/INFO]: Chupito2003 joined the game
+[12:14:14] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15

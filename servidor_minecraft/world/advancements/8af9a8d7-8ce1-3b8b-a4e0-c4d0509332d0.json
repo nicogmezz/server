@@ -3241,6 +3241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-16 21:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-09-16 21:08:35 +0000"
@@ -3259,21 +3265,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-09-16 22:24:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-09-16 21:16:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_copper_ore": "2025-09-16 21:06:21 +0000"
+      "used_totem": "2025-09-16 22:24:10 +0000"
     },
     "done": true
   },
