@@ -106,3 +106,6 @@
 [12:14:14] [Server thread/INFO]: Chupito2003[/127.6.117.219:60431] logged in with entity id 6 at (1279.5, 103.0, -500.5)
 [12:14:14] [Server thread/INFO]: Chupito2003 joined the game
 [12:14:14] [Server thread/INFO]: Syncmatica client joining with local version 0.3.15 and client version 0.3.15
+[12:35:14] [Server thread/INFO]: Chupito2003 lost connection: Disconnected
+[12:35:14] [Server thread/INFO]: Chupito2003 left the game
+[12:36:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
